@@ -1,0 +1,10 @@
+numpy  -working with arrays (vector and matrices)
+       -common mathematical functions like cos and sqrt
+       -generating random numbers
+       -linear algebra, etc.
+
+import numpy as np
+import matplotlib.pyplot as plt
+values = np.random.randn(50)
+plt.plot(values)
+plt.show()
