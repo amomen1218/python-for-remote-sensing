@@ -2,7 +2,7 @@ numpy  -working with arrays (vector and matrices)
        -common mathematical functions like cos and sqrt
        -generating random numbers
        -linear algebra, etc.
-
+(when you want to do something with python remember always need to import additional functionality)
 import numpy as np
 import matplotlib.pyplot as plt
 values = np.random.randn(50)
