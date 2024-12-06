@@ -2,6 +2,11 @@ numpy  -working with arrays (vector and matrices)
        -common mathematical functions like cos and sqrt
        -generating random numbers
        -linear algebra, etc.
+matploblib  -plots, histograms, contour images, 3D graphs, bar charts etc.
+             -output in many formats (PDF, PNG, EPS, etc.)
+              -LaTeX integration
+
+
 (when you want to do something with python remember always need to import additional functionality)
 import numpy as np
 import matplotlib.pyplot as plt
